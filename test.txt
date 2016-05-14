@@ -14,3 +14,5 @@ on rermote repo
 test 61
 test 62
 #
+new remote branch
+test ghtso 71
