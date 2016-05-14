@@ -17,3 +17,6 @@ test 62
 new remote branch
 test ghtso 71
 test ghtso 72
+#
+on local-branch
+test 100
