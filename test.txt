@@ -15,3 +15,11 @@ test 61
 test 62
 test 63
 #
+new remote branch
+test ghtso 71
+test ghtso 72
+#
+on local-branch
+test 100
+test 101
+test 102
